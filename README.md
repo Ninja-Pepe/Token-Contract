@@ -1,3 +1,7 @@
+
+SPDX-License-Identifier: MIT (Anyone can reuse NinjaPepe source code)
+
+
 Honeypot 🟰 No ❌
 
 Buy Tax 🟰 0% ✅
